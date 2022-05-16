@@ -1,4 +1,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Presentation:
+-------------
 The sterilization device is designed so that it can facilitate use without touching the tip of the rickshaw and then more or less secure and avoid any contact so as not to trigger a skin disease. This product has become an indispensable thing in our routine. The device is equipped with an ultrasonic sensor that delivers the sufficient quantity. It is very simple and convenient to use for any use and place. The product is equipped with an LCD screen to display the frost level. The vending machine is an innovative product and respects the quality-price ratio (270 MAD). It is coded by a technology widely used in the field of robotics and embedded systems which is “Arduino”.
 
 Power:
@@ -26,5 +29,5 @@ How do information and energy circulate in this system?
 -------------------------------------------------------
 In order to highlight the link between the constituent of the liquid dispenser, the functions are represented by "boxes" linked to each other and in which the name of the element which performs the function is indicated.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
